@@ -83,16 +83,16 @@ It also strengthened my understanding of how complex software systems interact w
 ## Screenshots
 
 ### Architecture Diagram
-![Architecture Diagram](images/architecture-diagram.png)
+![Architecture Diagram](architecture-diagram.png)
 
 ### Docker Containers
-![Docker Containers](images/docker-containers.png)
+![Docker Containers](docker-containers.png)
 
 ### Server Terminal
-![Server Terminal](images/server-terminal.png)
+![Server Terminal](server-terminal.png)
 
 ### Pi-hole Dashboard
-![Pi-hole Dashboard](images/pihole-dashboard.png)
+![Pi-hole Dashboard](pihole-dashboard.png)
 
 ### Jellyfin Interface
-![Jellyfin Interface](images/jellyfin-interface.png)
+![Jellyfin Interface](jellyfin-interface.png)
