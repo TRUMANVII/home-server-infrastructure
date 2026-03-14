@@ -11,24 +11,6 @@ The goal of this project was to gain hands-on experience with Linux systems, con
 
 ---
 
-## System Architecture
-
-
-Internet
-   │
-Tailscale VPN
-   │
-Ubuntu Server
-   │
-Docker
- ├── Jellyfin
- ├── Sonarr
- ├── Radarr
- ├── qBittorrent
- └── Pi-hole
- 
----
-
 ## Technologies Used
 
 - Ubuntu Linux
